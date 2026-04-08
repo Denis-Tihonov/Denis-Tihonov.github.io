@@ -20,16 +20,10 @@ TODO
 
 ##  Lab Series II – Tensor Low-Rank Approximation
 
-Lab Series II – Tensor Low-Rank Approximation (с датасетами)
-
-| Lab | Title / Topic (варианты) | Description (улучшенный вариант) | Notes / Links |
+Lab Series II – Tensor Low-Rank Approximation
+| Lab | Title / Topic | Description | Notes / Links |
 |-----|--------------------------|----------------------------------|---------------|
-| 201
-|**1. Tensor Approximation via Low‑Rank Decompositions**<br>
-**2. Low‑Rank Tensor Approximations: Tucker, CP, TT**
-| **Задача:** Аппроксимировать многомерные массивы данных (2D‑изображение, 3D‑видео, спектрограмму, 4D fMRI) с помощью трёх классических тензорных разложений: Tucker, CANDECOMP/PARAFAC (CP) и Tensor‑Train (TT).<br>
-**Ожидаемый результат:** Графики зависимости ошибки аппроксимации от ранга для каждого типа разложения, визуализация исходных и восстановленных данных при разных рангах.
-|**Датасеты:** CIFAR-10/100 (`https://www.cs.toronto.edu/~kriz/cifar.html`), Yale Face Database B (`http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html`), UCF101 (`https://www.crcv.ucf.edu/data/UCF101.php`), THINGS-fMRI (`https://openneuro.org/datasets/ds004192`) |
+| 201 | Tensor Approximation via Low‑Rank Decompositions** | **Задача:** Аппроксимировать многомерные массивы данных (2D‑изображение, 3D‑видео, спектрограмму, 4D fMRI) с помощью трёх классических тензорных разложений: Tucker, CANDECOMP/PARAFAC (CP) и Tensor‑Train (TT).<br> **Ожидаемый результат:** Графики зависимости ошибки аппроксимации от ранга для каждого типа разложения, визуализация исходных и восстановленных данных при разных рангах. |**Датасеты:** CIFAR-10/100 (`https://www.cs.toronto.edu/~kriz/cifar.html`), Yale Face Database B (`http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html`), UCF101 (`https://www.crcv.ucf.edu/data/UCF101.php`), THINGS-fMRI (`https://openneuro.org/datasets/ds004192`) |
 
 ---
 
