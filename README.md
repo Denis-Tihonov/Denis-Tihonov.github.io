@@ -34,20 +34,20 @@ TODO
 ### Предлагаемые источники данных
 
 1. https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
-2. **UCF101** — набор реалистичных видео (13 320 роликов, 101 класс действий) для распознавания действий. Собран с YouTube, содержит значительные вариации фона, освещения и движения камеры. https://www.crcv.ucf.edu/data/UCF101.php
-3. **THINGS-fMRI** — мультимодальная коллекция данных функциональной МРТ (fMRI), МЭГ и поведенческих реакций (4,7 млн оценок) при просмотре изображений объектов. Содержит данные по 1 854 концептам объектов.    https://openneuro.org/datasets/ds004192
-4. **COIL-20** — Columbia Object Image Library: 20 объектов, снятых с 72 ракурсов (обработанные и необработанные версии). Используется для задач распознавания объектов и анализа формы. https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
-5. **Helsinki Tomography Challenge 2022 (HTC 2022)** — синограммы для 2D‑реконструкции в ограниченном угле обзора. Содержит тренировочные (5 фантомов) и тестовые (21 фантом) данные в формате MATLAB. https://zenodo.org/records/7418878
-6. **SparseBeads Dataset** — набор данных для разреженной томографии (проверка ссылки рекомендуется: фактическое содержимое страницы не соответствует ожидаемому датасету).   https://zenodo.org/records/1654917
-7. **SinoCT (Stanford AIMI)** — синограммы компьютерной томографии (на момент проверки ссылка недоступна, рекомендуется уточнить актуальный URL).   https://aimi.stanford.edu/sinoct
-8. **GYSELA simulation data** — проект гирокинетического моделирования плазмы в токамаках (коды Gysela-X). Для доступа к репозиториям требуется обращение к команде проекта.    https://gyselax.github.io/
+2. **UCF101** — набор реалистичных видео для распознавания действий. Собран с YouTube, содержит значительные вариации фона, освещения и движения камеры. https://www.crcv.ucf.edu/data/UCF101.php
+3. **THINGS-fMRI** — мультимодальная коллекция данных функциональной МРТ (fMRI), МЭГ и реакций при просмотре изображений.   https://openneuro.org/datasets/ds004192
+4. **COIL-20** — Columbia Object Image Library: 20 объектов, снятых с 72 ракурсов (обработанные и необработанные версии). https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+5. **Helsinki Tomography Challenge 2022 (HTC 2022)** — синограммы для 2D‑реконструкции в ограниченном угле обзора. https://zenodo.org/records/7418878
+6. **SparseBeads Dataset** — набор данных для разреженной томографии (возможна, проблема с доступностью).   https://zenodo.org/records/1654917
+7. **SinoCT (Stanford AIMI)** — синограммы компьютерной томографии (возможна, проблема с доступностью).   https://aimi.stanford.edu/sinoct
+8. **GYSELA simulation data** — проект гирокинетического моделирования плазмы в токамаках (коды Gysela-X).    https://gyselax.github.io/
 9. **GENE benchmark data** — данные кросс‑верификации глобальных гирокинетических кодов (статья в Physics of Plasmas).   https://doi.org/10.1063/1.4955189
-10. **Visual Experience Dataset (VEDB)** — эгоцентрическое видео с айтрекингом (более 240 часов записей).   https://visualexperiencedataset.org/
-11. **IREye4Task** — набор видеозаписей глаз с разметкой зрачка и век для задач отслеживания взгляда.   https://ieee-dataport.org/documents/ireye4task
+10. **Visual Experience Dataset (VEDB)** — видео с отслеживанием положения взгляда.   https://visualexperiencedataset.org/
+11. **IREye4Task** — набор видео с отслеживанием положения взгляда с разметкой зрачка и век.   https://ieee-dataport.org/documents/ireye4task
 12. **IF‑D Inertial Foundation Dataset** — многоканальные записи акселерометра, гироскопа и магнитометра.   https://zenodo.org/records/13885759
 13. **Multimodal gait dataset** — данные походки с акселерометрами и видео (статья в Scientific Data).   https://doi.org/10.1038/s41597-025-05121-4
-14. **IMU Human Activity Recognition Dataset** — 6 активностей, записанных с акселерометра и гироскопа (ссылка ведёт на страницу с ошибкой, рекомендуется поискать альтернативный источник).    https://data.mendeley.com/datasets/3f8w6n9y7p
-15. **UCI Electricity Load Diagrams** — почасовое потребление электроэнергии 370 клиентов за 2011‑2014 гг. (значения в кВт, интервал 15 мин).    https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
+14. **IMU Human Activity Recognition Dataset** — 6 активностей, записанных с акселерометра и гироскопа (возможна, проблема с доступностью).    https://data.mendeley.com/datasets/3f8w6n9y7p
+15. **UCI Electricity Load Diagrams** — почасовое потребление электроэнергии 370 клиентов за 2011‑2014 гг.    https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
 16. **PJM Hourly Energy Consumption** — почасовые данные энергопотребления (в мегаваттах) по регионам США за более чем 10 лет от PJM Interconnection LLC.
 
 ### Предлагаемые источники кода
